@@ -1,5 +1,6 @@
-# NLW
-NLW with Rocketseat
+# NLW Habits
+
+NLW Setup Explorer
 
 ## Used Tools
 
@@ -7,4 +8,14 @@ NLW with Rocketseat
 - CSS
 - JavaScript
 
+## Project 
+
+Habits aims to give users control and insight into their habits
+
 ![Screenshot Project](./assets/ScreenNLW.png)
+
+
+
+
+
+### Project made by JoseMRezende and Maykbrito(RocketSeat)
