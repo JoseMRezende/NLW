@@ -18,4 +18,4 @@ Habits aims to give users control and insight into their habits
 
 
 
-### Project made by JoseMRezende and Maykbrito(RocketSeat)
+### Project made by JoseMRezende and Maykbrito(RocketSeat) 🚀🚀
