@@ -1,9 +1,9 @@
 # NLW
 NLW with Rocketseat
 
-##Used Tools
+## Used Tools
 
--HTML
--CSS
--JavaScript
+- HTML
+- CSS
+- JavaScript
 
