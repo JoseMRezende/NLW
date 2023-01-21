@@ -7,4 +7,4 @@ NLW with Rocketseat
 - CSS
 - JavaScript
 
-!(img/ScreenNLW.png)
+![Screenshot Project](./assets/ScreenNLW.png)
