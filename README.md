@@ -12,7 +12,7 @@ NLW Setup Explorer
 
 Habits aims to give users control and insight into their habits
 
-![Screenshot Project](./assets/ScreenNLW.png)
+![Screenshot Project](./assets/ScreenNLW2.png)
 
 
 
