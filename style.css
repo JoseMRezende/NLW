@@ -60,7 +60,7 @@ button {
     display: flex;
     flex-direction: column;
     gap: 25px;
-    position: fixed;
+    position: relative;
     margin-top: 60px;
 }
 
