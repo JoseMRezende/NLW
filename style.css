@@ -40,6 +40,7 @@ button {
 
 .habits {
     margin-top: 60px;
+    margin-left: 150px;
     display: flex;
     flex-direction: column;
     gap: 24px;
@@ -52,6 +53,27 @@ button {
     display: flex;
     align-items: center;
     justify-content: center;
+}
+
+.names {
+    color: #A1A1AA;
+    display: flex;
+    flex-direction: column;
+    gap: 25px;
+    position: fixed;
+    margin-top: 60px;
+}
+
+.name {
+    width: 64px;
+    height: 64px;
+    font-size: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: left;
+    font-family: 'Inter';
+    font-weight: 600;
+    font-size: 23px;
 }
 
 .days {
